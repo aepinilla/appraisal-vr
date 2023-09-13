@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: fa243c1ce5f75a149a8ef82e2307f6b1
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: f7a1d3f54720cae48b7b5719dbf4d026
+  - enabled: 1
+    path: Assets/Scenes/CodeSelector.unity
+    guid: b335ff9c38beb0a4893760d6dbfe022c
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 4b90bb68f3f7599459578484a37a155f
+  - enabled: 1
+    path: Assets/Scenes/Practice.unity
+    guid: de4ce379384636b47bf88d8c23ee9477
+  - enabled: 1
+    path: Assets/Scenes/SAMScenePractice.unity
+    guid: f0031aeed0c12504882039ae90f480fa
+  - enabled: 1
+    path: Assets/Scenes/ReadyScreen.unity
+    guid: 53ef8cb66c840a74690aa031d3d825dd
+  - enabled: 1
+    path: Assets/Scenes/SAMScene.unity
+    guid: e6ca5882fa2aa704f9a519dbc2fd7cc7
+  - enabled: 1
+    path: Assets/Scenes/SceneLoader.unity
+    guid: 93be95dc769b687499927bd0cea8eb8c
+  - enabled: 1
+    path: Assets/Scenes/Stressing.unity
+    guid: aa9653dc2d850f24597d08dbf71aaaa0
+  - enabled: 1
+    path: Assets/Scenes/Exciting.unity
+    guid: d43163e3019535141800fa123a2014a0
+  - enabled: 1
+    path: Assets/Scenes/Calming.unity
+    guid: f971285f1cee2104189474e877c8715b
+  - enabled: 1
+    path: Assets/Scenes/Depressing.unity
+    guid: 705c4cf44eb18a8429dbc8a335b8674d
+  - enabled: 1
+    path: Assets/Scenes/Neutral.unity
+    guid: 8014bbc97f3c24f4e84b9bb7e1afdfc4
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 0a399d763482db143b1e0080354bf99a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1283bc83947cbf745a99db7b3600dadb,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c8491442a23c41945a2b8b59f1551d45,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e51081e95cce6de4fb003cfaef6d61e3,
+      type: 2}
